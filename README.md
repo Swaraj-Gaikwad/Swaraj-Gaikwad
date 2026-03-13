@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | AI & Data Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Machine+Learning+Explorer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Machine+Learning+Explorer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -16,13 +16,13 @@ Hi 👋 I'm **Swaraj Gaikwad**, a passionate **Full Stack Developer & AI Enthusi
 * 💻 Building **Full Stack Web Applications using MERN Stack**
 * 🤖 Exploring **Artificial Intelligence, Machine Learning & Computer Vision**
 * ⚙️ Designing **REST APIs and scalable backend systems**
-* 🧩 Strong interest in **problem solving & system design**
+* 🧩 Passionate about **problem solving and system design**
 
 ---
 
 # 🌱 Currently Learning
 
-* System Design & Scalable Architectures
+* System Design
 * AI/ML Model Development & Deployment
 * Cloud Computing & DevOps
 
@@ -73,13 +73,17 @@ Hi 👋 I'm **Swaraj Gaikwad**, a passionate **Full Stack Developer & AI Enthusi
 
 # 🚀 Featured Projects
 
-🔹 **MERN E-Commerce Platform** – Full stack shopping platform with authentication and product management
+🔹 **MERN E-Commerce Platform**
+Full stack shopping platform with authentication and product management
 
-🔹 **AI Voice Assistant** – Voice-enabled AI chatbot using modern APIs
+🔹 **AI Voice Assistant**
+Voice-enabled AI chatbot using modern APIs
 
-🔹 **Fashion Product Classification** – Deep learning model to classify clothing attributes
+🔹 **Fashion Product Classification (Deep Learning)**
+Model predicting product attributes from images
 
-🔹 **React Form Builder** – Dynamic form creation and validation system
+🔹 **React Dynamic Form Builder**
+Create and validate dynamic forms using React + Redux
 
 ---
 
@@ -103,6 +107,12 @@ Hi 👋 I'm **Swaraj Gaikwad**, a passionate **Full Stack Developer & AI Enthusi
 
 ---
 
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
 <p align="center">
 ✨ <i>Always curious to learn, build, and innovate.</i>
 </p>
@@ -110,3 +120,4 @@ Hi 👋 I'm **Swaraj Gaikwad**, a passionate **Full Stack Developer & AI Enthusi
 ---
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Swaraj-Gaikwad\&icon=4\&color=0)
+
